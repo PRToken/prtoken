@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T14:11:17.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.6.0" etag="vi42UIjUZ232PP3xY8oJ" type="github"><diagram id="JfrPy8K4pcMn6iP03INu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-13T14:51:57.224Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="MLk5YlRVAxGtAMru7LAz" version="14.6.0" type="github">
+  <diagram id="JfrPy8K4pcMn6iP03INu" name="Page-1">
+    <mxGraphModel dx="2658" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=18;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-1" target="QCur_YBWAdCuoytP5kMZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-1" value="Repo owner pledge to tokenised pr contributions, install the github extension.&lt;br&gt;https://github.com/marketplace" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-2" value="MVP&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Helvetica;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-6" target="QCur_YBWAdCuoytP5kMZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-6" value="&lt;p style=&quot;font-size: 12px&quot;&gt;This allow us have access to the PR template, add a template for anyone creating a PR with info to remind this contributor for adding his cardano address.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-8" value="PR created." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontFamily=Helvetica;fontSize=12;strokeWidth=1;image=https://marketplace-screenshots.githubusercontent.com/8995/35b89a80-60e5-11eb-8512-9bacccc9eb71?auto=webp&amp;format=jpeg&amp;width=670;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="520" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-15" target="QCur_YBWAdCuoytP5kMZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-15" value="&lt;span&gt;Replied this PR with thanks info, and telling this contributor that he will earn some Ada and if he haven&#39;t add the ada address, contributor can choose to NFT this PR or not.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="450" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="QCur_YBWAdCuoytP5kMZ-17" target="QCur_YBWAdCuoytP5kMZ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-17" value="MPV, ada will be sent manually, sent a reply to this pr if approved or merged. Add NFT info if has" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-26" value="Can be in MVP, but not crucial&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=18;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="830" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QCur_YBWAdCuoytP5kMZ-31" value="&lt;span style=&quot;color: rgb(55, 53, 47); font-size: 12px; background-color: rgb(255, 255, 255);&quot;&gt;Provide a dashboard for repo owner to track the amount of cardano sent out, to who etc, all recorded in blockchain&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="870" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
