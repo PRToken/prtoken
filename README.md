@@ -4,6 +4,9 @@ Tokenised PR(Pull request)
 
 Cardano F5 proposal: [Link](https://cardano.ideascale.com/a/dtd/Tokenised-PR-Pull-request/350780-48088#idea-tab-comments)
 
+As we are preparing for our mvp, to help us understand and build a better product, we are looking for developers to signup with their GitHub account on https://www.prtoken.io/
+
+once you have signed up, create a PR, add your username and your Ada address in readme.md , we will pay 5 Ada each for the first 50 accounts and approved PR.
 
 ## The first 50 users
 
