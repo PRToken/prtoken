@@ -10,6 +10,7 @@ once you have signed up, create a PR, add your username and your Ada address in 
 
 ## The first 50 users
 
+
 | username   | address | Paid |
 |------------|---------|------|
 |manonthemat | addr1qxgdsuem99vja4a6j4sln8n86hmkzswc08ekpa7w8fvhq6467knrm89w3u208dj4rzayqp8tz7v27tsgdgre236xwyasp05pk6 | Yes |
@@ -21,4 +22,5 @@ once you have signed up, create a PR, add your username and your Ada address in 
 |thisHermit | addr1qx2zark08w3umn23h5xjddr7x28srep2pql7xna8clgqlv54zk28x8vmq2cjegs5gl4xzt7ah7wdkzmaur6we0p479ns6aqldc | Yes |
 |MitchyCola | addr1qy550c09n9qdjuyjzakqmq3g38uwjkh3zm6x4sud3tc4w4gwzhx8sgcyq4jkn2u0zchn3qw0zj96j8xlkgw9lup6m96qlegg7j | Yes |
 |judeebene | addr1q9zs96rwdmkvgx2n9qgdj7tlurhpknpfr4x833l3nsucdw38t0umpazqm3thly0mat08xh6tg9ug3xujnecafrltgu7skhlvmv | No |
+|ztoms | addr1q9uwfhcgyjjmd0c55ggrp9ys5de2mh5rllvzxh9h27zp3m8dtvsdljrg6yy9chunvhh2xgpgxy4au9w6xur4ul9auqxs7q4ll7 | No |
 |ddowding | addr1q8w6e03qcj7fh63763gf5wu4r3n0ws9p56jpvt7k6meref7a4jlzp39un04ra4zsngae28rx7aq2rf4yzchad4hj8jnsey2dx0 | No |
