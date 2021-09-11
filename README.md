@@ -24,3 +24,4 @@ once you have signed up, create a PR, add your username and your Ada address in 
 |judeebene | addr1q9zs96rwdmkvgx2n9qgdj7tlurhpknpfr4x833l3nsucdw38t0umpazqm3thly0mat08xh6tg9ug3xujnecafrltgu7skhlvmv | Yes |
 |ztoms | addr1q9uwfhcgyjjmd0c55ggrp9ys5de2mh5rllvzxh9h27zp3m8dtvsdljrg6yy9chunvhh2xgpgxy4au9w6xur4ul9auqxs7q4ll7 | Yes |
 |ddowding | addr1q8w6e03qcj7fh63763gf5wu4r3n0ws9p56jpvt7k6meref7a4jlzp39un04ra4zsngae28rx7aq2rf4yzchad4hj8jnsey2dx0 | Yes |
+|hKedia | addr1qxmpkhxydl4d5dumlgejqdthjhpa0n70579sk4skjulu2q8zjfr2sp8uyu675haf2ytq6658dyetkfr8fsc2c602h7hshg7ll0 | No |
