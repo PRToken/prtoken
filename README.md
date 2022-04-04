@@ -25,4 +25,4 @@ once you have signed up, create a PR, add your username and your Ada address in 
 |hKedia | addr1qxmpkhxydl4d5dumlgejqdthjhpa0n70579sk4skjulu2q8zjfr2sp8uyu675haf2ytq6658dyetkfr8fsc2c602h7hshg7ll0 | Yes |
 |rumourscape | addr1qyeg7s84qjh8aqev25yae3fjpltuvq7cs42fx9c8ck9ysxeyrvylx5m8tex08269axjq0n4ulaf4k8xmdvnkety6y7fqpwjcmc | Yes |
 |plamen5kov | addr1qygepe5dvv9nf02qlrf55tjwa0lwkv6jzwejrrtrrkkj8kju52d6mj205ge44gd4f75g4fk9r09qny5rtgwmz0hrvwwsnlnvdt | Yes |
-|jhetchan | addr1q89ukc84krlscwlg9kjdnlhqwrggynfqdu2ea6mrp4udgwx5twjchqgcx9ywwkgd0nyxgsd4y508ms9gpy45wm2ynkysgsjmc9 | No |
+|jhetchan | addr1q89ukc84krlscwlg9kjdnlhqwrggynfqdu2ea6mrp4udgwx5twjchqgcx9ywwkgd0nyxgsd4y508ms9gpy45wm2ynkysgsjmc9 | Yes |
